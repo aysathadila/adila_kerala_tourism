@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-size: cover;
+    backdrop-filter: blur(4px);
+}
+.form{
+    
+    margin: 1%;
+    margin-top: 10%;
+    margin-left: 33%;
+    border: 2px solid rgb(255, 249, 170);
+    background-color: rgb(255, 249, 170);
+    color:white;
+    padding: 2em;
+    margin-right: 33%;
+    
+     background-color: rgb(2, 43, 54);
+}
+.foot3{
+    background-color: white;
+    color:black;
+    height: 8em;
+    margin-top: 8%;
+    margin-left: 0em;
+    margin-right: 0em;
+    text-align: center;
+}
+.foot3 a{
+    margin-right: 1em;
+}

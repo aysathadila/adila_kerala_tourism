@@ -1,0 +1,40 @@
+
+body{
+    background-image: cover;
+    backdrop-filter: blur(10px);
+}.foot4{
+    background-color: white;
+    color:black;
+    height: 8em;
+    margin-top: 167%;
+    margin-left: 0em;
+    margin-right: 0em;
+    text-align: center;
+}
+.container{
+    /* border: 2px solid black; */
+    margin-top: 8%;
+    margin-left: 16%;
+    margin-right: 2%;
+}
+.a{
+     border: 2px solid black;
+    width: 22%;
+    float: left;
+    margin-left: 10px;
+    height: 22em;
+    padding: 6px;
+    background-color: rgb(246, 238, 224);
+   margin: 2%;
+}
+container p{
+    line-height: 1.25em;
+}
+.container h4{
+    text-align: center;
+
+}
+.container a{
+    text-decoration: none;
+    color: rgb(9, 30, 124);
+}

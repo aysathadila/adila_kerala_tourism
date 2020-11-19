@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    margin-top: 1em;
+    font-family: initial;
+    color: white;
+}
+.beach img{
+    float: right;
+    margin-left: 1.2em;
+
+}
+.fort img{
+    float: left;
+    margin-right: 1.2em;
+
+}
+.park img{
+    float: right;
+    margin-left: 1.2em;
+
+}
+.kannur{
+    margin-left: 2em;
+    margin-right: 2em;
+    color: white;
+}
+.button{
+    margin-bottom: 2em;
+}
+.button a{
+    padding: 0.5em;
+    border: 2px solid white;
+    margin-left: 2em;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    background-color: rgb(253, 254, 255);
+    color: blue;
+}
